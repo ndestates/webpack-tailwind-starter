@@ -4,7 +4,8 @@
   "description": "Simple file structure for Tailwind projects",
   "main": "index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "dev": "webpack serve"
   },
   "dependencies": {
     "tailwind": "^4.0.0"
